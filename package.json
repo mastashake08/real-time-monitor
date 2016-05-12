@@ -1,0 +1,24 @@
+{
+  "name": "real-time-monitor",
+  "version": "0.0.1",
+  "description": "Monitor your surroundings in real time over local network.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mastashake08/real-time-monitor.git"
+  },
+  "keywords": [
+    "rtc",
+    "microphone",
+    "webcam"
+  ],
+  "author": "Jyrone Parker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mastashake08/real-time-monitor/issues"
+  },
+  "homepage": "https://github.com/mastashake08/real-time-monitor#readme"
+}
